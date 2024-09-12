@@ -12,6 +12,5 @@
 </div>
 
 <h1>
-  hey there
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB6anprdTFkMWJmZ3NmazI5Z2YxNnh2b242c3A2MHd4b3JhcTdhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" width="30px"/>
+  <img src="<iframe src="https://giphy.com/embed/8X0bEJWj8VcfA6T8iJ" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ghostboylives-art-ghost-boy-lives-8X0bEJWj8VcfA6T8iJ">via GIPHY</a></p>" width="100px"/>
 </h1>
