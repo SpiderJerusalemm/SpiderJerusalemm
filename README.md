@@ -11,6 +11,23 @@
   </a>
 </div>
 
+
 <h1>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndjaGN2cnhqbjMyMTh6ZnFwOWsybGpqc3I0M3Q1b2owbDN0dTgxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r47bYvpXDhpvH4kiyu/giphy.gif" width="100px"/>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB5c29lY24yMXc4M2MwZWkyaGR3b2pybG1sb21sbzBycHRueDF6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jmuiFMS44Vl6RQjR8i/giphy.gif" width="300" height="300"/>
+</div>
+
+:woman_technologist: About Me :
+
+- :zzz: I’m study in spbstu.
+
+- :dizzy: since september 2024 begin learning py.
+
+- :clown_face: In my free time, i play computer games. 
+
+- :skull:Or listening music.
