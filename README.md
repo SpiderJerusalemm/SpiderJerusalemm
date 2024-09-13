@@ -24,10 +24,8 @@
 
 :woman_technologist: About Me :
 
-- :zzz: I’m study in spbstu.
+- :skull: I’m study in spbstu.
 
 - :dizzy: since september 2024 begin learning py.
 
 - :clown_face: In my free time, i play computer games. 
-
-- :skull:Or listening music.
